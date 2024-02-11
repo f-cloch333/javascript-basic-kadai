@@ -1,4 +1,4 @@
-const dateName = new Date([2023,8,22]);
+const dateName = new Date();
 
   const date = () => {
   const year = dateName.getFullYear();
