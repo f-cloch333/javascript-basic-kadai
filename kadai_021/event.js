@@ -4,6 +4,6 @@ const textElement = document.getElementById('text');
 button.addEventListener('click', () => {
 
   setTimeout(() => {
-    textElement.textContent = 'ボタンがクリックされました';
+    textElement.textContent = 'ボタンをクリックしました';
   }, 2000);
 });
